@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">signingogl</string>
+
+    <string name="facebook_app_id">372412074900666</string>
+    <string name="fb_login_protocol_scheme">fb372412074900666</string>
+    <string name="facebook_client_token">fd2da4440afc4e1760a9e214192659c1</string>
+
+
+</resources>
